@@ -1,16 +1,14 @@
-## Hi there 👋
+# 🔭 Olá! seja bem-vindo ao meu perfil!
+Atualmente estou cursando Sistemas de Informação, e sou um desenvolvedor Back-End em __Python__, com foco em aplicações eficientes e escaláveis, com experiência em __SQLite__ e __Java__. Meu maior objetivo como desenvolvedor é aprofundar nas linguagens de programação que tenho conhecimento, aprender novas linguagens de programação, e me tornar um desenvolvedor Full-Stack ou um Analista de Dados!
 
-<!--
-**AndreCruz790/AndreCruz790** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ⚙️ Linguagens de Programação
+### Experiente em:
+[![Python](https://skillicons.dev/icons?i=python)]()
+[![SQLite](https://skillicons.dev/icons?i=sqlite)]()
 
-Here are some ideas to get you started:
+### Conhecimentos em:
+[![MySQL](https://skillicons.dev/icons?i=mysql)]()
+[![Java](https://skillicons.dev/icons?i=java)]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact me in:
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/andr%C3%A9-cruz-62663539a/)
